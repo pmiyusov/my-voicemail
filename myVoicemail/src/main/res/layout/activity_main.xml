@@ -1,0 +1,21 @@
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="120dip"
+    android:layout_height="20sp"
+    tools:context=".MainActivity" >
+    <ImageView android:src="@drawable/wait" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:id="@+id/screen_wait" android:layout_gravity="center" android:visibility="gone" />
+    
+<!--     <Button -->
+<!--         android:id="@+id/button_view_voicemail" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:layout_alignParentLeft="true" -->
+<!--         android:layout_alignParentTop="true" -->
+<!--         android:text="View Voicemail List" -->
+<!--         android:onClick="handleViewVoicemail"  /> -->
+
+</RelativeLayout>
+

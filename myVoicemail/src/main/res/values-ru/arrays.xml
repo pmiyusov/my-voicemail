@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="audio_source_options">
+    <item>DEFAULT</item>
+    <item>MIC</item>
+    <item>VOICE_UPLINK</item>
+    <item>VOICE_DOWNLINK</item>
+    <item>VOICE_CALL</item>
+    <item>CAMCORDER</item>
+    <item>VOICE_RECOGNITION</item>
+    <item>VOICE_COMMUNICATION</item>
+    </string-array> 
+<!--  AAC_ADTS AMR_NB AMR_WB DEFAULT MPEG_4 RAW_AMR THREE_GPP -->
+  <string-array name="audio_source_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    </string-array>
+    <!-- DEFAULT 0 -->
+    <!-- THREE_GPP 1 -->
+    <!-- MPEG_4 2 -->
+    <!-- RAW_AMR = AMR_NB 3 -->
+    <!-- AMR_WB 4 -->
+    <!-- AAC_ADTS 6 -->
+  <string-array name="audio_format_options">
+    <item>DEFAULT</item>
+    <item>THREE_GPP</item>
+    <item>MPEG_4</item>
+    <item>RAW_AMR</item>
+    <item>AMR_WB</item>
+    <item>AAC_ADTS</item>
+    </string-array>
+    <string-array name="audio_format_values">
+       <item>0</item>
+       <item>1</item>
+       <item>2</item>
+       <item>3</item>
+       <item>4</item>
+       <item>6</item>
+    </string-array>
+<!-- from AudioSystem.java -->
+  <string-array name="audio_stream_options">
+    <item>STREAM_VOICE_CALL</item>
+    <item>STREAM_SYSTEM</item>
+    <item>STREAM_RING</item>
+    <item>STREAM_MUSIC</item>
+    <item>STREAM_ALARM</item>
+    <item>STREAM_NOTIFICATION</item>
+    <item>STREAM_BLUETOOTH_SCO</item>
+    <item>STREAM_SYSTEM_ENFORCED</item>
+    <item>STREAM_DTMF</item>
+    <item>STREAM_TTS</item>
+    </string-array>
+  <string-array name="audio_stream_values">
+       <item>0</item>
+       <item>1</item>
+       <item>2</item>
+       <item>3</item>
+       <item>4</item>
+       <item>5</item>
+       <item>6</item>
+       <item>7</item>
+       <item>8</item>
+       <item>9</item>
+  </string-array>
+      
+    <string-array name="delay_options">
+        <item>2 секунд</item>
+        <item>4 секунд</item>
+        <item>6 секунд</item>
+        <item>8 секунд</item>
+        <item>16 секунд</item>
+        <item>32 секунд</item>
+        </string-array>
+    <string-array name="delay_values">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>16</item>
+        <item>32</item>
+        </string-array>
+    <string-array name="greeting_options">
+        <item>Стандартное</item>
+        <item>Нестандартное</item>
+        <item>Свой файл</item>
+    </string-array>
+    <string-array name="greeting_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="storage_viewer_entries">
+        <item>Сохранять в карте памяти SD и просматривать из приложения Наш Ответ</item>
+        <item>Сохранять и просматривать в Журнале звонков</item>
+    </string-array>
+    <string-array name="storage_viewer_values">
+        <item>sdcard</item>
+        <item>phonelog</item>
+    </string-array>
+    
+</resources>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Наш Ответ</string>
+    <string name="audio_source">Аудио Источник</string>
+    <string name="audio_format">Формат записи</string>
+    <string name="view_voicemail">Просмотр сообщений</string>
+    <string name="delay_before_answer">Задержка перед ответом (сек)</string>
+    <string name="use_speakerphone">Включить Громкоговоритель?</string>
+    <string name="speakerphone_on_greeting">Вкл. Громкоговоритель</string>
+    <string name="greeting_volume">Громкость приветствия (0 - 10)</string>
+    <string name="speakerphone_on_recording">Вкл. Громкоговоритель</string>
+    <string name="use_external_storage">Средство просмотра myVoicemail или Call Log</string>
+    <string name="storage_location">/sdcard/voicemail</string>
+    <string name="saved_messages">Сохраненные сообщения</string>
+    <string name="recorder_audio_source">Источник звука</string>
+    <string name="enable_voicemail">Включить автоответчик</string>
+    <string name="max_message_duration_sec">Макс. длительность записи</string>
+    <string name="message_storage_directory">Директория хранения</string>
+    <string name="recorder_options">Настройки звукозаписи</string>
+    <string name="recording_audio_format">Формат звукозаписи</string>
+    <string name="greeting_options">Настройки приветствия</string>
+    <string name="greeting_type">Файл приветствия</string>
+    <string name="select_greeting_wav_format">Файл приветствия в аудио формате </string>
+    <string name="greeting_stream">Программный поток</string>
+    <string name="select_greeting_stream">Выберите программный поток</string>
+    <string name="view_messages">Просмотр сообщений</string>
+    <string name="play_greeting">Прослушать приветствие</string>
+    <string name="message_playback">Прослушивание сообщения</string>
+    <string name="evaluation">Проба</string>
+    <string name="description">Описание</string>    
+    <string name="seconds">секунд</string>
+    <string name="limited_to">Ограничено: </string>
+    <string name="storage_viewer_summary">Choice between in-app viewer and Call Log viewer</string>
+    <string name="storage_viewer_title">Хранение и просмотр сообщ.</string>
+    <string name="storage_viewer_dialog_title">Ваш выбор</string>
+    <string name="greeting_audio_mode">Аудио режим приветствия</string>
+    <string name="recorder_audio_mode">Аудио режим звукозаписи</string>
+    <string name="select_greeting_audio_mode">Выбор аудио режима приветствия</string>
+    <string name="select_recorder_audio_mode">Выбор аудио режима звукозаписи</string>
+    <string name="hang_up">Повесить трубку</string>
+    <string name="keep_recording">Продолжить запись</string>
+    <string name="take_this_call">Взять этот вызов</string>
+    <string name="incoming_call">Входящий Вызов</string>
+    
+    <string name="title_activity_record_greeting">Запись приветствия</string>
+    <string name="action_settings">Установки</string>
+   <string name="record_new_greeting">Записать новое приветствие</string>
+   <string name="you_have_new_voice_mail">Получено новое сообщение</string>
+   <string name="start_recording">Начать запись</string>
+   <string name="stop_recording">Остановить запись</string>
+   <string name="start_playback">Начать воспроизведение</string>
+   <string name="stop_playback">Остановить воспроизведение</string>
+   <string name="save_to_file">Сохранить в файле:</string>
+   <string name="save">Сохранить</string>
+   <string name="back">Назад</string> 
+   <string name="get_full_version">Установить полную версию</string>
+   
+</resources>

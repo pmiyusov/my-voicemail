@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+            android:persistent="true"
+    >
+
+    <CheckBoxPreference
+        android:defaultValue="true" 
+        android:key="enable_voicemail"
+        android:title="@string/enable_voicemail" />
+
+    <ListPreference
+        android:key="delay_ring"
+        android:defaultValue="8"
+        android:entries="@array/delay_options"
+        android:entryValues="@array/delay_values"
+        android:summary="8"
+        android:title="@string/delay_before_answer" />
+    
+        <!-- android:defaultValue="10" -->
+    <EditTextPreference
+        android:title="@string/max_message_duration_sec" 
+        android:defaultValue="11"
+        android:enabled="true"
+        android:capitalize="none"
+        android:inputType="text"
+        android:key="max_duration_sec"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        />
+
+    <PreferenceScreen
+        android:key="recorder_options_screen"
+        android:title="@string/recorder_options" 
+        android:persistent="true"
+        >
+<!--     	<CheckBoxPreference -->
+<!--         android:key="use_external_storage" -->
+<!--         android:defaultValue="true" -->
+<!--         android:title="@string/use_external_storage" -->
+<!--         android:singleLine="false" -->
+<!--          /> -->
+        <ListPreference
+            android:key="storage_viewer"
+            android:title="@string/storage_viewer_title" 
+            android:defaultValue="sdcard"
+            android:dialogTitle="@string/storage_viewer_dialog_title"
+            android:entries="@array/storage_viewer_entries"
+            android:entryValues="@array/storage_viewer_values"
+            android:summary="@string/storage_viewer_summary"
+            />
+    		
+    	<CheckBoxPreference
+        android:key="recording_use_speakerphone"
+        android:title="@string/speakerphone_on_recording" 
+        android:defaultValue="false"
+        />
+    	
+        <EditTextPreference
+        android:title="@string/message_storage_directory" 
+        android:defaultValue="/sdcard/vm"
+        android:persistent="true"
+        android:enabled="true"
+        android:capitalize="none"
+        android:inputType="text"
+        android:key="storage_directory"
+        android:maxLines="2"
+        android:selectAllOnFocus="true"
+        android:singleLine="false"
+        />
+    
+        
+        <!-- DEFAULT 0 -->
+        <!-- MIC 1 -->
+        <!-- VOICE_UPLINK 2 -->
+        <!-- VOICE_DOWNLINK 3 -->
+        <!-- VOICE_CALL 4 -->
+        <!-- CAMCORDER 5 -->
+        <!-- VOICE_RECOGNITION 6 -->
+        <!-- VOICE_COMMUNICATION 7 -->
+        <ListPreference
+            android:key="audio_source"
+            android:title="@string/recorder_audio_source" 
+            android:defaultValue="4"
+            android:dialogTitle="@string/recorder_audio_source"
+            android:entries="@array/audio_source_options"
+            android:entryValues="@array/audio_source_values"
+            android:summary=""
+            />
+    <!-- MODE_INVALID            = -2; -->
+    <!-- MODE_CURRENT            = -1; -->
+    <!-- MODE_NORMAL             = 0; -->
+    <!-- MODE_RINGTONE           = 1; -->
+    <!-- MODE_IN_CALL            = 2; -->
+    <!-- MODE_IN_COMMUNICATION   = 3; -->
+    <!-- NUM_MODES               = 4; -->
+        	<ListPreference
+        android:key="recorder_audio_mode"    	
+    	android:title="@string/recorder_audio_mode" 
+        android:defaultValue="2"
+        android:dialogTitle="@string/select_recorder_audio_mode"
+        android:entries="@array/audio_mode_options"
+        android:entryValues="@array/audio_mode_values"
+        android:summary=""
+    	/>
+        <!-- DEFAULT 0 -->
+        <!-- THREE_GPP 1 -->
+        <!-- MPEG_4 2 -->
+        <!-- RAW_AMR = AMR_NB 3 -->
+        <!-- AMR_WB 4 -->
+        <!-- AAC_ADTS 6 -->
+        <ListPreference
+            android:title="@string/recording_audio_format"
+            android:dialogTitle="@string/recording_audio_format"
+            android:defaultValue="3"
+            android:entries="@array/audio_format_options"
+            android:entryValues="@array/audio_format_values"
+            android:key="audio_format"
+            android:summary="@string/recording_audio_format"
+        />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="greeting_options_screen"
+        android:title="@string/greeting_options" 
+        android:persistent="true"       
+        >
+    
+    <ListPreference
+        android:key="greeting_type"
+        android:title="@string/greeting_type"
+        android:defaultValue="1"
+        android:dialogTitle="@string/select_greeting_wav_format"
+        android:entries="@array/greeting_options"
+        android:entryValues="@array/greeting_values"
+        android:summary=""
+        />
+        <EditTextPreference
+        android:title="@string/greeting_volume" 
+        android:defaultValue="10"
+        android:summary="10"
+        android:enabled="true"
+        android:capitalize="none"
+        android:inputType="text"
+        android:key="greeting_volume"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        />
+    	<CheckBoxPreference
+        android:key="greeting_use_speakerphone"
+        android:title="@string/speakerphone_on_greeting" 
+        android:defaultValue="false"
+        />
+<!--     	STREAM_VOICE_CALL  0 -->
+    	<ListPreference
+        android:key="greeting_stream"    	
+    	android:title="@string/greeting_stream"
+        android:defaultValue="0" 
+        android:dialogTitle="@string/select_greeting_stream"
+        android:entries="@array/audio_stream_options"
+        android:entryValues="@array/audio_stream_values"
+        android:summary=""
+    	/>
+<!--     	MODE_NORMAL 0 -->
+    	<ListPreference
+        android:key="greeting_audio_mode"    	
+    	android:title="@string/greeting_audio_mode" 
+        android:defaultValue="0"
+        android:dialogTitle="@string/select_greeting_audio_mode"
+        android:entries="@array/audio_mode_options"
+        android:entryValues="@array/audio_mode_values"
+        android:summary=""
+    	/>
+    	
+   </PreferenceScreen>
+    
+    <!-- <PreferenceScreen -->
+    <!-- xmlns:android="http://schemas.android.com/apk/res/android" -->
+    <!-- android:summary="System preference imported using an intent" -->
+    <!-- android:title="Intent preference" > -->
+    <!-- <intent android:action="android.settings.DISPLAY_SETTINGS " /> -->
+    <!-- </PreferenceScreen> -->
+
+</PreferenceScreen>

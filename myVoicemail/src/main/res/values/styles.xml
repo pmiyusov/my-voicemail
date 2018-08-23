@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <drawable name="grayBg">#FF333333</drawable>
+
+    <style name="IccPanel">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@drawable/grayBg</item>
+    </style>
+
+    <style name="info_label">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.info_label</item>
+        <item name="android:paddingRight">4dip</item>
+    </style>
+
+    <style name="info_layout">
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingLeft">10dip</item>
+        <item name="android:paddingTop">10dip</item>
+        <item name="android:paddingRight">10dip</item>
+        <item name="android:paddingBottom">10dip</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="entry_layout">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TextAppearance" parent="android:TextAppearance">
+    </style>
+
+    <style name="TextAppearance.info_label">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Preference Style for the phone number preferences -->
+<!--     <style name="EditPhoneNumberPreference"> -->
+<!--         <item name="enableButtonText">@string/enable</item> -->
+<!--         <item name="disableButtonText">@string/disable</item> -->
+<!--         <item name="changeNumButtonText">@string/change_num</item> -->
+<!--         <item name="confirmMode">activation</item> -->
+<!--     </style> -->
+
+    <!-- OTA Call Card styles -->
+    <style name="ccOtaButtonBar">
+        <!-- TODO: change height to 'wrap_content' when layout bug is fixed -->
+        <item name="android:layout_height">60dip</item> 
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+
+    <style name="ccOtaButton">
+        <item name="android:layout_width">150dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">5dip</item>
+        <item name="android:layout_marginBottom">5dip</item>
+    </style>
+
+    <style name="ccOtaNextButton" parent="ccOtaButton">
+        <!-- <item name="android:drawableRight">@drawable/ic_btn_next</item>
+             <item name="android:drawablePadding">10dip</item>
+          -->
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_marginRight">4dip</item>
+    </style>
+
+    <style name="ccOtaSkipButton" parent="ccOtaButton">
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_marginLeft">4dip</item>
+    </style>
+
+<!--     <style name="ccOtaWizardTitle"> -->
+<!--         <item name="android:textSize">22sp</item> -->
+<!--         <item name="android:textColor">@color/ota_title_color</item> -->
+<!--     </style> -->
+
+    <style name="ccOtaTextPrimary">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <!-- Buttons in the main "button row" of the in-call onscreen touch UI. -->
+<!--     <style name="InCallButton"> -->
+<!--         <item name="android:layout_width">0px</item> -->
+<!--         <item name="android:layout_height">@dimen/in_call_button_height</item> -->
+<!--         <item name="android:layout_weight">1</item> -->
+<!--         <item name="android:background">?android:attr/selectableItemBackground</item> -->
+<!--     </style> -->
+
+ 
+    <style name="VerticalSeparator">
+        <item name="android:layout_width">2dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@android:color/black</item>
+    </style>
+
+
+    <!-- Theme for the activity com.android.phone.Settings, which is the
+         "Mobile network settings" screen (used on non-voice-capable
+         tablets as well as regular phone devices.) -->
+    <style name="Theme.Settings" parent="@android:style/Theme.Holo.DialogWhenLarge">
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+
+
+
+    <!-- Theme for the InCallScreen activity.  This gives us a totally black
+         window background instead of the default dark grey.  (We don't just use
+         Theme.Black.NoTitleBar directly, since we want any popups or dialogs
+    -->
+
+    <style name="EmergencyDialerTheme" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+
+
+    <style name="SipCallOptionHandlerTheme" parent="@android:style/Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+        
+<!--         Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+-->
+    </style>
+
+<!--     <style name="ListViewStyle" parent="@android:style/Widget.Holo.Light.ListView"> -->
+	<style name="ListViewStyle" parent="@android:style/Widget.AbsListView">
+        <item name="android:overScrollMode">always</item>
+    </style>
+
+    
+    <style name="CallDetailActivityTheme" parent="android:Theme.Holo">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:gravity">top</item>
+        <item name="android:listViewStyle">@style/ListViewStyle</item>
+        <!-- CallLog -->
+<!--         <item name="call_log_primary_text_color">#FFFFFF</item> -->
+<!--         <item name="call_log_primary_background_color">#000000</item> -->
+<!--         <item name="call_log_secondary_text_color">#FFFFFF</item> -->
+<!--         <item name="call_log_secondary_background_color">#333333</item> -->
+<!--         <item name="call_log_header_color">#33b5e5</item> -->
+<!--         VoicemailStatus -->
+<!--         <item name="call_log_voicemail_status_height">48dip</item> -->
+<!--         <item name="call_log_voicemail_status_background_color">#262626</item> -->
+<!--         <item name="call_log_voicemail_status_text_color">#888888</item> -->
+<!--         <item name="call_log_voicemail_status_action_text_color">#33b5e5</item> -->
+    </style>
+    
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
+

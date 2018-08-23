@@ -1,0 +1,62 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 27
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    flavorDimensions 'dimention1'
+    productFlavors {
+        releaseFlavor {
+            dimension 'dimention1'
+            minSdkVersion 14
+//            applicationId 'com.pmiyusov.mvm'
+            proguardFile '/home/paul/StudioProjects/mvm2/proguard.cfg'
+            targetSdkVersion 27
+            versionCode 7
+        }
+
+        debugFlavor {
+            dimension 'dimention1'
+            minSdkVersion 14
+//            applicationId 'com.pmiyusov.mvm'
+//            proguardFile '/home/paul/StudioProjects/mvm2/proguard.cfg'
+            targetSdkVersion 27
+            versionCode 7
+        }
+
+
+    }
+    repositories {
+        jcenter()
+        google()
+        maven {
+            url "https://maven.google.com"
+        }
+
+    }
+    allprojects {
+        repositories {
+            jcenter()
+            google()
+            maven {
+                url "https://maven.google.com"
+            }
+        }
+    }
+}
+dependencies {
+//    classpath 'com.android.tools.build:gradle:3.0.1'
+    implementation "com.android.support:support-core-utils:27.0.0"
+    implementation 'com.android.support:appcompat-v7:27.0.0'
+}

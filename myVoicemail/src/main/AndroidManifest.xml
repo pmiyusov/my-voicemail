@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pmiyusov.mvm"
+    android:installLocation="auto"
+    android:versionCode="5"
+    android:versionName="1.0.5">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="27" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="com.android.voicemail.permission.ADD_VOICEMAIL" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="com.android.providers.voicemail.permission.READ_WRITE_ALL_VOICEMAIL" />
+    <uses-permission android:name="com.android.providers.voicemail.permission.READ_WRITE_OWN_VOICEMAIL" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CALL_PRIVILEGED" />
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ANSWER_PHONE_CALLS" />
+    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+
+
+    <uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
+    <uses-permission android:name="android.permission.INJECT_EVENTS" />
+
+
+
+    <!--PROTECTION_NORMAL  -->
+        <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+        <uses-permission android:name="android.permission.BLUETOOTH" />
+        <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+        <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+        <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+
+    <!--PROTECTION_DANGEROUS  -->
+
+        <uses-permission android:name="android.permission.RECORD_AUDIO" />
+        <uses-permission android:name="android.permission.READ_PHONE_NUMBERS" />
+        <uses-permission android:name="android.permission.CALL_PHONE" />
+        <uses-permission android:name="android.permission.ADD_VOICEMAIL" />
+        <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+        <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+        <!--
+        // As of API level 23, the following permissions are classified as PROTECTION_NORMAL:
+                Manifest.permission.WRITE_EXTERNAL_STORAGE,
+                Manifest.permission.BLUETOOTH,
+                Manifest.permission.BLUETOOTH_ADMIN,
+                Manifest.permission.MODIFY_AUDIO_SETTINGS,
+                Manifest.permission.BROADCAST_STICKY,
+
+    // Dangerous permissions
+                Manifest.permission.RECORD_AUDIO,
+                Manifest.permission.READ_PHONE_STATE,
+                Manifest.permission.READ_PHONE_NUMBERS,
+                Manifest.permission.CALL_PHONE,
+                Manifest.permission.ANSWER_PHONE_CALLS,
+                Manifest.permission.ADD_VOICEMAIL,
+                Manifest.permission.READ_EXTERNAL_STORAGE,
+                Manifest.permission.WRITE_EXTERNAL_STORAGE
+
+
+        <uses-permission android:name="android.permission.READ_CONTACTS" />
+    -->
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Settings">
+        <activity
+            android:name="com.pmiyusov.mvm.MyVoicemail"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Settings">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.pmiyusov.mvm.SettingsActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Settings"/>
+        <activity
+            android:name="com.pmiyusov.mvm.AddVoicemailHeadlessActivity"
+            android:label="Saving Message ..."/>
+        <!--<activity-->
+        <!--android:name="com.ipaulpro.afilechooser.FileChooserActivity"-->
+        <!--android:configChanges="orientation|screenSize|keyboard|keyboardHidden"-->
+        <!--android:label="Select Greeting File"-->
+        <!--android:priority="100"-->
+        <!--android:screenOrientation="user" >-->
+        <!--</activity>-->
+
+        <!--<service android:name="com.ipaulpro.afilechooser.services.LocalFileProvider" />-->
+        <service android:name="com.pmiyusov.mvm.MyVoicemailDaemon" />
+        <service android:name="com.pmiyusov.mvm.RecordService" />
+
+        <activity
+            android:name="com.ipaulpro.afilechooser.FileChooserActivity"
+            android:enabled="@bool/use_activity"
+            android:exported="true"
+            android:icon="@drawable/ic_chooser"
+            android:label="@string/choose_file">
+            <!-- android:theme="@style/ChooserTheme" >-->
+            <intent-filter>
+                <action android:name="android.intent.action.GET_CONTENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.OPENABLE" />
+
+                <data android:mimeType="*/*" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.ianhanniballake.localstorage.LocalStorageProvider"
+            android:authorities="com.ianhanniballake.localstorage.documents"
+            android:enabled="@bool/use_provider"
+            android:exported="true"
+            android:grantUriPermissions="true"
+            android:permission="android.permission.MANAGE_DOCUMENTS">
+            <intent-filter>
+                <action android:name="android.content.action.DOCUMENTS_PROVIDER" />
+            </intent-filter>
+        </provider>
+
+        <activity
+            android:name="com.pmiyusov.mvm.viewer.RecordingListActivity"
+            class="com.pmiyusov.mvm.viewer.RecordingListActivity"
+            android:label="@string/saved_messages"/>
+        <activity
+            android:name="com.pmiyusov.mvm.viewer.RecordingDetailActivity"
+            android:label="@string/title_recording_detail"
+            android:parentActivityName="com.pmiyusov.mvm.viewer.RecordingListActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.pmiyusov.mvm.viewer.RecordingListActivity" />
+        </activity>
+        <activity
+            android:name="com.pmiyusov.mvm.viewer.VideoPlayerActivity"
+            android:label="@string/message_playback"
+            android:parentActivityName="com.pmiyusov.mvm.viewer.RecordingListActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.pmiyusov.mvm.viewer.RecordingListActivity" />
+        </activity>
+        <activity
+            android:name="com.pmiyusov.mvm.RecordGreetingActivity"
+            android:label="@string/record_new_greeting" />
+    </application>
+
+</manifest>

@@ -1,0 +1,117 @@
+// apply plugin: 'com.android'
+apply plugin: 'com.android.application'
+buildscript {
+    repositories {
+        jcenter()
+        //    google()
+        maven {
+            url 'https://maven.google.com'
+        }
+    }
+}
+android {
+    signingConfigs {
+        mySigngConfig {
+            keyAlias 'mykeyalias'
+            keyPassword 'Garfunkel'
+            storeFile file('/home/paul/ks/pmiyusov-release-key.keystore')
+            storePassword 'Simong'
+        }
+    }
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+    defaultConfig {
+        applicationId "com.pmiyusov.mvm"
+        minSdkVersion 14
+        targetSdkVersion 27
+        versionCode 7
+        versionName '1.7'
+        signingConfig signingConfigs.mySigngConfig
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+            debuggable false
+            jniDebuggable false
+            signingConfig signingConfigs.mySigngConfig
+            versionNameSuffix 'rel'
+        }
+        debug {
+            debuggable true
+            jniDebuggable true
+            signingConfig signingConfigs.mySigngConfig
+            versionNameSuffix 'deb'
+        }
+    }
+    flavorDimensions 'dimention1'
+    productFlavors {
+        releaseFlavor {
+            dimension 'dimention1'
+            minSdkVersion 14
+            applicationId 'com.pmiyusov.mvm'
+            proguardFile '/home/paul/StudioProjects/mvm5/proguard.cfg'
+            targetSdkVersion 27
+            versionCode 7
+            signingConfig signingConfigs.mySigngConfig
+            versionName '1.7'
+        }
+        debugFlavor {
+            dimension 'dimention1'
+            minSdkVersion 14
+            applicationId 'com.pmiyusov.mvm'
+//            proguardFile '/home/paul/StudioProjects/mvm2/proguard.cfg'
+            targetSdkVersion 27
+            versionCode 7
+            signingConfig signingConfigs.mySigngConfig
+            versionName '1.7'
+        }
+        paid {
+            dimension 'dimention1'
+            // Because the dependency already includes a "paid" flavor in its
+            // "tier" dimension, you don't need to provide a list of fallbacks
+            // for the "paid" flavor.
+            matchingFallbacks = ['releaseFlavor']
+        }
+        free {
+            dimension 'dimention1'
+            // Specifies a sorted list of fallback flavors that the plugin
+            // should try to use when a dependency's matching dimension does
+            // not include a "free" flavor. You may specify as many
+            // fallbacks as you like, and the plugin selects the first flavor
+            // that's available in the dependency's "tier" dimension.
+            matchingFallbacks = ['debugFlavor', 'releaseFlavor']
+        }
+    }
+    repositories {
+        jcenter()
+        google()
+        maven {
+            url "https://maven.google.com"
+        }
+    }
+    defaultConfig {
+        // Do not configure matchingFallbacks in the defaultConfig block.
+        // Instead, you must specify fallbacks for a given product flavor in the
+        // productFlavors block, as shown below.
+    }
+    lintOptions {
+        checkReleaseBuilds true
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+
+}
+dependencies {
+    //    classpath 'com.android.tools.build:gradle:3.0.1'
+    implementation project(':aFileChooser')
+    //    implementation "com.android.support:support-core-utils:27.0.0"
+    implementation 'com.android.support:appcompat-v7:27.0.0'
+}
+// compile 'com.android.support:appcompat-v7:27.0.0'
+
+//dependencies {
+//    implementation files('libs/android-support-v4.jar')
+//    implementation project(':aFileChooser')
+//}

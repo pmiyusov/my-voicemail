@@ -1,0 +1,5 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Keeping this file as first preference fragment so other fragments can be added -->
+ 
+</PreferenceScreen>

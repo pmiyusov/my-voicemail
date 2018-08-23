@@ -1,0 +1,60 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
+    defaultConfig {
+        applicationId "com.ipaulpro.afilechooserexample"
+        minSdkVersion 14
+        targetSdkVersion 26
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    repositories {
+        jcenter()
+        google()
+        maven {
+            url "https://maven.google.com"
+        }
+    }
+    flavorDimensions 'dimention1'
+    productFlavors {
+        releaseFlavor {
+            dimension 'dimention1'
+            minSdkVersion 14
+            applicationId 'com.pmiyusov.mvm'
+            proguardFile '/home/paul/StudioProjects/mvm2/proguard.cfg'
+            targetSdkVersion 27
+            versionCode 7
+        }
+
+        paid {
+            dimension 'dimention1'
+            // Because the dependency already includes a "paid" flavor in its
+            // "tier" dimension, you don't need to provide a list of fallbacks
+            // for the "paid" flavor.
+            matchingFallbacks = ['releaseFlavor']
+
+        }
+        free {
+            dimension 'dimention1'
+            // Specifies a sorted list of fallback flavors that the plugin
+            // should try to use when a dependency's matching dimension does
+            // not include a "free" flavor. You may specify as many
+            // fallbacks as you like, and the plugin selects the first flavor
+            // that's available in the dependency's "tier" dimension.
+            matchingFallbacks = ['debugFlavor', 'releaseFlavor']
+        }
+    }
+
+}
+
+dependencies {
+    implementation project(':aFileChooser')
+    //    implementation "com.android.support:support-core-utils:27.1.1"
+    implementation 'com.android.support:appcompat-v7:27.0.0'
+}
