@@ -17,9 +17,6 @@
 package com.pmiyusov.mvm.voicemail.common.core;
 
 // import com.pmiyusov.mvm.voicemail.common.logging.Logger;
-import com.pmiyusov.mvm.Log;
-import com.pmiyusov.mvm.voicemail.common.utils.CloseUtils;
-import com.pmiyusov.mvm.voicemail.common.utils.DbQueryUtils;
 
 import android.content.ContentResolver;
 import android.content.ContentUris;
@@ -28,6 +25,10 @@ import android.content.Context;
 import android.database.Cursor;
 import android.net.Uri;
 import android.provider.VoicemailContract.Voicemails;
+
+import com.pmiyusov.mvm.Log;
+import com.pmiyusov.mvm.voicemail.common.utils.CloseUtils;
+import com.pmiyusov.mvm.voicemail.common.utils.DbQueryUtils;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -42,8 +43,10 @@ public final class VoicemailProviderHelpers implements VoicemailProviderHelper {
     // private static final Logger logger = Logger.getLogger(VoicemailProviderHelpers.class);
     private static final String TAG = "VoicemailProvider";
 
-    /** Full projection on the voicemail table, giving us all the columns. */
-    private static final String[] FULL_PROJECTION = new String[] {
+    /**
+     * Full projection on the voicemail table, giving us all the columns.
+     */
+    private static final String[] FULL_PROJECTION = new String[]{
             Voicemails._ID,
             Voicemails.HAS_CONTENT,
             Voicemails.NUMBER,
@@ -62,7 +65,7 @@ public final class VoicemailProviderHelpers implements VoicemailProviderHelper {
      * provider.
      *
      * @param contentResolver the ContentResolver used for opening the output stream to read and
-     *            write to the file
+     *                        write to the file
      */
     private VoicemailProviderHelpers(Uri baseUri, ContentResolver contentResolver) {
         mContentResolver = contentResolver;
@@ -128,7 +131,7 @@ public final class VoicemailProviderHelpers implements VoicemailProviderHelper {
     }
 
     private void setVoicemailContent(Uri voicemailUri, byte[] inputBytes, InputStream inputStream,
-            String mimeType) throws IOException {
+                                     String mimeType) throws IOException {
         if (inputBytes != null && inputStream != null) {
             throw new IllegalArgumentException("Both inputBytes & inputStream non-null. Don't" +
                     " know which one to use.");
@@ -208,7 +211,7 @@ public final class VoicemailProviderHelpers implements VoicemailProviderHelper {
      * Checks that an assertion is true.
      *
      * @throws IllegalArgumentException if the assertion is false, along with a suitable message
-     *             including a toString() representation of the voicemail
+     *                                  including a toString() representation of the voicemail
      */
     private void check(boolean assertion, String message, Voicemail voicemail) {
         if (!assertion) {
@@ -229,7 +232,7 @@ public final class VoicemailProviderHelpers implements VoicemailProviderHelper {
 
     @Override
     public List<Voicemail> getAllVoicemails(VoicemailFilter filter,
-            String sortColumn, SortOrder sortOrder) {
+                                            String sortColumn, SortOrder sortOrder) {
         Log.i(TAG, String.format("Fetching all voicemails"));
         Cursor cursor = null;
         try {

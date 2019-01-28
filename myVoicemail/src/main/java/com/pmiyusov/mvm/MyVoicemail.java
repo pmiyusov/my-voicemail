@@ -1,4 +1,46 @@
+/*
+ * Copyright (C) 2019 Paul Miyusov
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
 package com.pmiyusov.mvm;
+
+import android.Manifest;
+import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.Context;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
+import android.net.Uri;
+import android.os.Build;
+import android.os.Bundle;
+import android.os.Environment;
+import android.os.Looper;
+import android.preference.PreferenceManager;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
+import android.view.KeyEvent;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.View.OnKeyListener;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import com.pmiyusov.mvm.conf.BuildProp;
+import com.pmiyusov.purchaseupgrade.IaUpgradeHelper;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,42 +48,8 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Objects;
 
-import android.Manifest;
-import android.content.pm.PackageManager;
-import android.net.Uri;
-import android.os.Build;
-import android.os.Bundle;
-import android.os.Environment;
-import android.os.Looper;
-import android.app.Activity;
-import android.app.AlertDialog;
-import android.content.Context;
-import android.support.v4.content.ContextCompat;
-import android.content.DialogInterface;
-import android.content.Intent;
 // import android.util.Log;
-import android.support.annotation.NonNull;
-import android.support.v4.app.ActivityCompat;
-import android.view.KeyEvent;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.preference.Preference;
-import android.preference.PreferenceManager;
-import android.content.SharedPreferences;
-import android.content.pm.PackageManager.NameNotFoundException;
-
 // import com.pmiyusov.mvm.R;
-import com.pmiyusov.mvm.Log;
-import com.pmiyusov.mvm.R;
-import com.pmiyusov.conf.BuildProp;
-import com.pmiyusov.purchaseupgrade.IaUpgradeHelper;
-
-import android.view.View.OnKeyListener;
-import android.widget.TextView;
-import android.widget.Toast;
-
-import static android.app.PendingIntent.getActivity;
 
 public class MyVoicemail extends Activity implements OnKeyListener {
 
@@ -60,7 +68,7 @@ public class MyVoicemail extends Activity implements OnKeyListener {
             Manifest.permission.MODIFY_AUDIO_SETTINGS,
             Manifest.permission.BROADCAST_STICKY,
 // android.permission.INJECT_EVENTS
-	   // TODO Manifest.permission.INJECT_EVENTS,
+            // TODO Manifest.permission.INJECT_EVENTS,
 
 // Dangerous permissions
             Manifest.permission.RECORD_AUDIO,

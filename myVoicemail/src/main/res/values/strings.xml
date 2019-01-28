@@ -16,7 +16,7 @@
     <string name="recorder_audio_source">Recorder audio source</string>
     <string name="enable_voicemail">Enable voicemail</string>
     <string name="max_message_duration_sec">Max message duration (sec)</string>
-    <string name="message_storage_directory">Message storage directory</string>
+    <string name="voicemail_home_dir_title">Voicemail Storage Home</string>
     <string name="recorder_options">Recorder options</string>
     <string name="recording_audio_format">Recording audio format</string>
     <string name="greeting_options">Greeting options</string>

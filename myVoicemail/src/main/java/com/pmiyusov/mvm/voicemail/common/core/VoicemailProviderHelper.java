@@ -16,9 +16,8 @@
 
 package com.pmiyusov.mvm.voicemail.common.core;
 
-import android.provider.VoicemailContract;
-
 import android.net.Uri;
+import android.provider.VoicemailContract;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -37,11 +36,15 @@ import java.util.List;
  */
 public interface VoicemailProviderHelper {
 
-    /** Sort order to return results by. */
+    /**
+     * Sort order to return results by.
+     */
     public enum SortOrder {
         ASCENDING,
         DESCENDING,
-        /** Default sort order returned by DB. (Typically Ascending, but no guarantees made). */
+        /**
+         * Default sort order returned by DB. (Typically Ascending, but no guarantees made).
+         */
         DEFAULT
     }
 
@@ -58,13 +61,13 @@ public interface VoicemailProviderHelper {
      * @param voicemail data to be inserted
      * @return {@link Uri} of the newly inserted {@link Voicemail}
      * @throws IllegalArgumentException if any of the following are true:
-     *         <ul>
-     *         <li>your voicemail is missing a timestamp</li>
-     *         <li>your voiceamil is missing a number</li>
-     *         <li>your voicemail is missing the provider id field</li>
-     *         <li>voicemail has an id (which would indicate that it has already been inserted)
-     *         </li>
-     *         </ul>
+     *                                  <ul>
+     *                                  <li>your voicemail is missing a timestamp</li>
+     *                                  <li>your voiceamil is missing a number</li>
+     *                                  <li>your voicemail is missing the provider id field</li>
+     *                                  <li>voicemail has an id (which would indicate that it has already been inserted)
+     *                                  </li>
+     *                                  </ul>
      */
     public Uri insert(Voicemail voicemail);
 
@@ -91,10 +94,10 @@ public interface VoicemailProviderHelper {
      * be used to perform the update. The remaining fields will be left unmodified. To mark a
      * voicemail as read, create a new {@link Voicemail} that is marked as read, and call update.
      *
-     * @throws IllegalArgumentException if you provide a {@link Voicemail} that already has a Uri
-     *             set, because we don't support altering the Uri of a voicemail, and this most
-     *             likely implies that you're using this api incorrectly
      * @return the number of rows that were updated
+     * @throws IllegalArgumentException if you provide a {@link Voicemail} that already has a Uri
+     *                                  set, because we don't support altering the Uri of a voicemail, and this most
+     *                                  likely implies that you're using this api incorrectly
      */
     public int update(Uri uri, Voicemail voicemail);
 
@@ -105,7 +108,7 @@ public interface VoicemailProviderHelper {
      * returned.
      *
      * @throws IOException if there is a problem creating the file or no voicemail is found matching
-     *             the given Uri
+     *                     the given Uri
      */
     public void setVoicemailContent(Uri voicemailUri, InputStream inputStream, String mimeType)
             throws IOException;
@@ -114,7 +117,7 @@ public interface VoicemailProviderHelper {
      * Sets the voicemail content from the supplied byte array.
      *
      * @throws IOException if there is a problem creating the file or no voicemail is found matching
-     *             the given Uri
+     *                     the given Uri
      */
     public void setVoicemailContent(Uri voicemailUri, byte[] inputBytes, String mimeType)
             throws IOException;
@@ -130,14 +133,14 @@ public interface VoicemailProviderHelper {
      * Same as {@link #getAllVoicemails()} but also sorts them by the requested column and allows to
      * set a filter.
      *
-     * @param filter The filter to apply while retrieving voicemails.
+     * @param filter     The filter to apply while retrieving voicemails.
      * @param sortColumn The column to sort by. Must be one of the values defined in
-     *            {@link VoicemailContract.Voicemails}.
-     * @param sortOrder Order to sort by
+     *                   {@link VoicemailContract.Voicemails}.
+     * @param sortOrder  Order to sort by
      * @return the list of voicemails, sorted by the requested DB column in specified sort order.
      */
     public List<Voicemail> getAllVoicemails(VoicemailFilter filter,
-            String sortColumn, SortOrder sortOrder);
+                                            String sortColumn, SortOrder sortOrder);
 
     /**
      * Returns the Uri for the voicemail with the specified message Id.

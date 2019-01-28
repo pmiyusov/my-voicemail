@@ -100,7 +100,9 @@ public final class VoicemailImpl implements Voicemail {
         private Boolean mBuilderIsRead;
         private boolean mBuilderHasContent;
 
-        /** You should use the correct factory method to construct a builder. */
+        /**
+         * You should use the correct factory method to construct a builder.
+         */
         private Builder() {
         }
 

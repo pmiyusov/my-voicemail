@@ -21,6 +21,8 @@ package com.pmiyusov.mvm.voicemail.common.core;
  * interface.
  */
 public interface VoicemailFilter {
-    /** Returns the where clause for this filter. Returns null if the filter is empty. */
+    /**
+     * Returns the where clause for this filter. Returns null if the filter is empty.
+     */
     public String getWhereClause();
 }

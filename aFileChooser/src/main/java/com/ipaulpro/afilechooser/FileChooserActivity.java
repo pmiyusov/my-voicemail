@@ -46,8 +46,8 @@ public class FileChooserActivity extends FragmentActivity implements
         OnBackStackChangedListener, FileListFragment.Callbacks {
 
     public static final String PATH = "path";
-    public static final String EXTERNAL_BASE_PATH = Environment
-            .getExternalStorageDirectory().getAbsolutePath();
+//    public static final String EXTERNAL_BASE_PATH = Environment
+//           .getExternalStorageDirectory().getAbsolutePath();
 
     private static final boolean HAS_ACTIONBAR = Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB;
 
@@ -66,11 +66,15 @@ public class FileChooserActivity extends FragmentActivity implements
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+
         mFragmentManager = getSupportFragmentManager();
         mFragmentManager.addOnBackStackChangedListener(this);
 
         if (savedInstanceState == null) {
-            mPath = EXTERNAL_BASE_PATH;
+            mPath = getSharedPreferences("preferences", MODE_PRIVATE).
+                    getString("greeting_file_path", null);
+//            getString("storage_directory", null);
+//            mPath = EXTERNAL_BASE_PATH;
             addFragment();
         } else {
             mPath = savedInstanceState.getString(PATH);
@@ -108,7 +112,10 @@ public class FileChooserActivity extends FragmentActivity implements
             BackStackEntry fragment = mFragmentManager.getBackStackEntryAt(count - 1);
             mPath = fragment.getName();
         } else {
-            mPath = EXTERNAL_BASE_PATH;
+            mPath = getSharedPreferences("preferences", MODE_PRIVATE).
+                    getString("storage_directory", null);
+
+//            mPath = EXTERNAL_BASE_PATH;
         }
 
         setTitle(mPath);

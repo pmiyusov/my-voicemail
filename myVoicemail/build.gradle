@@ -1,9 +1,7 @@
-// apply plugin: 'com.android'
 apply plugin: 'com.android.application'
 buildscript {
     repositories {
         jcenter()
-        //    google()
         maven {
             url 'https://maven.google.com'
         }
@@ -60,18 +58,10 @@ android {
             dimension 'dimention1'
             minSdkVersion 14
             applicationId 'com.pmiyusov.mvm'
-//            proguardFile '/home/paul/StudioProjects/mvm2/proguard.cfg'
             targetSdkVersion 27
             versionCode 7
             signingConfig signingConfigs.mySigngConfig
             versionName '1.7'
-        }
-        paid {
-            dimension 'dimention1'
-            // Because the dependency already includes a "paid" flavor in its
-            // "tier" dimension, you don't need to provide a list of fallbacks
-            // for the "paid" flavor.
-            matchingFallbacks = ['releaseFlavor']
         }
         free {
             dimension 'dimention1'
@@ -109,9 +99,3 @@ dependencies {
     //    implementation "com.android.support:support-core-utils:27.0.0"
     implementation 'com.android.support:appcompat-v7:27.0.0'
 }
-// compile 'com.android.support:appcompat-v7:27.0.0'
-
-//dependencies {
-//    implementation files('libs/android-support-v4.jar')
-//    implementation project(':aFileChooser')
-//}

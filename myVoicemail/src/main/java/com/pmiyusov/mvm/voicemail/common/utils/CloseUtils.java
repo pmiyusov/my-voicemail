@@ -41,7 +41,9 @@ public class CloseUtils {
         }
     }
 
-    /** If the argument is non-null, close the cursor. */
+    /**
+     * If the argument is non-null, close the cursor.
+     */
     public static void closeQuietly(Cursor cursor) {
         if (cursor != null) {
             cursor.close();

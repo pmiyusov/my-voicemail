@@ -16,15 +16,15 @@
 
 package com.pmiyusov.mvm.voicemail.common.core;
 
-import static com.pmiyusov.mvm.voicemail.common.utils.DbQueryUtils.concatenateClausesWithAnd;
-import static com.pmiyusov.mvm.voicemail.common.utils.DbQueryUtils.concatenateClausesWithOr;
-import static com.pmiyusov.mvm.voicemail.common.utils.DbQueryUtils.getEqualityClause;
-
 import android.provider.VoicemailContract.Voicemails;
 import android.text.TextUtils;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import static com.pmiyusov.mvm.voicemail.common.utils.DbQueryUtils.concatenateClausesWithAnd;
+import static com.pmiyusov.mvm.voicemail.common.utils.DbQueryUtils.concatenateClausesWithOr;
+import static com.pmiyusov.mvm.voicemail.common.utils.DbQueryUtils.getEqualityClause;
 
 /**
  * Factory class to create {@link VoicemailFilter} objects for various filtering needs.
@@ -49,18 +49,21 @@ public class VoicemailFilterFactory {
      */
     public static VoicemailFilter createWithWhereClause(final String whereClause) {
         return new VoicemailFilter() {
-          @Override
-          public String getWhereClause() {
-            return TextUtils.isEmpty(whereClause) ? null : whereClause;
-          }
-          @Override
-          public String toString() {
-              return getWhereClause();
-          }
+            @Override
+            public String getWhereClause() {
+                return TextUtils.isEmpty(whereClause) ? null : whereClause;
+            }
+
+            @Override
+            public String toString() {
+                return getWhereClause();
+            }
         };
     }
 
-    /** Creates a filter with fields matching the ones set in the supplied voicemail object. */
+    /**
+     * Creates a filter with fields matching the ones set in the supplied voicemail object.
+     */
     public static VoicemailFilter createWithMatchingFields(Voicemail fieldMatch) {
         if (fieldMatch == null) {
             throw new IllegalArgumentException("Cannot create filter null fieldMatch");
@@ -69,18 +72,24 @@ public class VoicemailFilterFactory {
                 getWhereClauseForMatchingFields(fieldMatch));
     }
 
-    /** Creates a voicemail filter with the specified read status. */
+    /**
+     * Creates a voicemail filter with the specified read status.
+     */
     public static VoicemailFilter createWithReadStatus(boolean isRead) {
         return createWithMatchingFields(
                 VoicemailImpl.createEmptyBuilder().setIsRead(isRead).build());
     }
 
-    /** Combine multiple filters with OR clause. */
+    /**
+     * Combine multiple filters with OR clause.
+     */
     public static VoicemailFilter createWithAndOf(VoicemailFilter... filters) {
         return createWithWhereClause(concatenateClausesWithAnd(getClauses(filters)));
     }
 
-    /** Combine multiple filters with AND clause. */
+    /**
+     * Combine multiple filters with AND clause.
+     */
     public static VoicemailFilter createWithOrOf(VoicemailFilter... filters) {
         return createWithWhereClause(concatenateClausesWithOr(getClauses(filters)));
     }

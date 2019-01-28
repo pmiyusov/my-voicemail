@@ -15,7 +15,7 @@
     <string name="recorder_audio_source">Источник звука</string>
     <string name="enable_voicemail">Включить автоответчик</string>
     <string name="max_message_duration_sec">Макс. длительность записи</string>
-    <string name="message_storage_directory">Директория хранения</string>
+    <string name="voicemail_home_dir_title">Директория хранения</string>
     <string name="recorder_options">Настройки звукозаписи</string>
     <string name="recording_audio_format">Формат звукозаписи</string>
     <string name="greeting_options">Настройки приветствия</string>

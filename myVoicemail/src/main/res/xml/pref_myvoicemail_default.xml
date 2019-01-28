@@ -57,13 +57,13 @@
         />
     	
         <EditTextPreference
-        android:title="@string/message_storage_directory" 
-        android:defaultValue="/sdcard/vm"
+        android:title="@string/voicemail_home_dir_title"
+        android:defaultValue="/sdcard/voicemail"
         android:persistent="true"
         android:enabled="true"
         android:capitalize="none"
         android:inputType="text"
-        android:key="storage_directory"
+        android:key="voicemail_home_path"
         android:maxLines="2"
         android:selectAllOnFocus="true"
         android:singleLine="false"

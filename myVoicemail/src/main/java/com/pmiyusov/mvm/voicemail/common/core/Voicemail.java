@@ -35,17 +35,23 @@ public interface Voicemail {
 
     public boolean hasId();
 
-    /** The number of the person leaving the voicemail, empty string if unknown, null if not set. */
+    /**
+     * The number of the person leaving the voicemail, empty string if unknown, null if not set.
+     */
     public String getNumber();
 
     public boolean hasNumber();
 
-    /** The timestamp the voicemail was received, in millis since the epoch, zero if not set. */
+    /**
+     * The timestamp the voicemail was received, in millis since the epoch, zero if not set.
+     */
     public long getTimestampMillis();
 
     public boolean hasTimestampMillis();
 
-    /** Gets the duration of the voicemail in millis, or zero if the field is not set. */
+    /**
+     * Gets the duration of the voicemail in millis, or zero if the field is not set.
+     */
     public long getDuration();
 
     public boolean hasDuration();

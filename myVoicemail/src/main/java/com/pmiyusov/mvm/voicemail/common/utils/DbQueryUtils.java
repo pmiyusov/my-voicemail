@@ -27,12 +27,16 @@ public class DbQueryUtils {
     private DbQueryUtils() {
     }
 
-    /** Returns a WHERE clause assert equality of a field to a value for the specified table . */
+    /**
+     * Returns a WHERE clause assert equality of a field to a value for the specified table .
+     */
     public static String getEqualityClause(String table, String field, String value) {
         return getEqualityClause(table + "." + field, value);
     }
 
-    /** Returns a WHERE clause assert equality of a field to a value. */
+    /**
+     * Returns a WHERE clause assert equality of a field to a value.
+     */
     public static String getEqualityClause(String field, String value) {
         StringBuilder clause = new StringBuilder();
         clause.append(field);
@@ -41,19 +45,25 @@ public class DbQueryUtils {
         return clause.toString();
     }
 
-    /** Concatenates any number of clauses using "AND". */
+    /**
+     * Concatenates any number of clauses using "AND".
+     */
     // TODO: 0. It worries me that I can change the following "AND" to "OR" and the provider tests
     // all pass. I can also remove the braces, and the tests all pass.
     public static String concatenateClausesWithAnd(String... clauses) {
         return concatenateClausesWithOperation("AND", clauses);
     }
 
-    /** Concatenates any number of clauses using "OR". */
+    /**
+     * Concatenates any number of clauses using "OR".
+     */
     public static String concatenateClausesWithOr(String... clauses) {
         return concatenateClausesWithOperation("OR", clauses);
     }
 
-    /** Concatenates any number of clauses using the specified operation. */
+    /**
+     * Concatenates any number of clauses using the specified operation.
+     */
     public static String concatenateClausesWithOperation(String operation, String... clauses) {
         // Nothing to concatenate.
         if (clauses.length == 1) {

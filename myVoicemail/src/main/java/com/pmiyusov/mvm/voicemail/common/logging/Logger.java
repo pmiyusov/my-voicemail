@@ -47,12 +47,16 @@ public class Logger {
 
     private final String mLogPrefix;
 
-    /** No custom log prefix used. */
+    /**
+     * No custom log prefix used.
+     */
     private Logger() {
         mLogPrefix = null;
     }
 
-    /** Use the supplied custom prefix in log output. */
+    /**
+     * Use the supplied custom prefix in log output.
+     */
     private Logger(String logPrefix) {
         mLogPrefix = logPrefix;
     }

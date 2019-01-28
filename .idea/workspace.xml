@@ -5,11 +5,72 @@
       <config />
     </shared>
   </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6ffbe9b-3614-4ecf-b844-996890b2b5e0" name="Default" comment="" />
+    <list default="true" id="9a4537af-537a-41b8-bc30-334d7739fe31" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_0_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_0_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_0_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_0_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_0_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_0_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_0_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/aFileChooser/aFileChooser.iml" afterPath="$PROJECT_DIR$/aFileChooser/aFileChooser.iml" />
+      <change beforePath="$PROJECT_DIR$/aFileChooser/build.gradle" afterPath="$PROJECT_DIR$/aFileChooser/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/aFileChooser/src/main/java/com/ipaulpro/afilechooser/FileChooserActivity.java" afterPath="$PROJECT_DIR$/aFileChooser/src/main/java/com/ipaulpro/afilechooser/FileChooserActivity.java" />
+      <change beforePath="$PROJECT_DIR$/aFileChooserExample/aFileChooserExample.iml" afterPath="$PROJECT_DIR$/aFileChooserExample/aFileChooserExample.iml" />
+      <change beforePath="$PROJECT_DIR$/build.gradle0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mvm5.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/build.gradle" afterPath="$PROJECT_DIR$/myVoicemail/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/debugFlavor/debug/myVoicemail-debugFlavor-debug.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/myVoicemail.iml" afterPath="$PROJECT_DIR$/myVoicemail/myVoicemail.iml" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/myVoicemail/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/conf/BuildProp.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/AddVoicemailHeadlessActivity.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/AddVoicemailHeadlessActivity.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/CallAlertDialog.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/CallAlertDialog.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/Log.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/Log.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemailDaemon.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemailDaemon.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordGreetingActivity.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordGreetingActivity.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/utils/Utils.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/utils/Utils.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/BoxContent.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/BoxContent.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/RecordingDetailActivity.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/RecordingDetailActivity.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/RecordingDetailFragment.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/RecordingDetailFragment.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/RecordingListActivity.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/RecordingListActivity.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/RecordingListFragment.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/RecordingListFragment.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/VideoControllerView.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/VideoControllerView.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/VideoPlayerActivity.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/viewer/VideoPlayerActivity.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/Voicemail.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/Voicemail.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/VoicemailFilter.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/VoicemailFilter.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/VoicemailFilterFactory.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/VoicemailFilterFactory.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/VoicemailImpl.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/VoicemailImpl.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/VoicemailProviderHelper.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/VoicemailProviderHelper.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/VoicemailProviderHelpers.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/core/VoicemailProviderHelpers.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/logging/Logger.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/logging/Logger.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/utils/CloseUtils.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/utils/CloseUtils.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/utils/DbQueryUtils.java" afterPath="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/voicemail/common/utils/DbQueryUtils.java" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/res/values-ru/strings.xml" afterPath="$PROJECT_DIR$/myVoicemail/src/main/res/values-ru/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/myVoicemail/src/main/res/values/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/res/xml/pref_myvoicemail_default.xml" afterPath="$PROJECT_DIR$/myVoicemail/src/main/res/xml/pref_myvoicemail_default.xml" />
+      <change beforePath="$PROJECT_DIR$/myVoicemail/src/main/res/xml/pref_myvoicemail_samsung.xml" afterPath="$PROJECT_DIR$/myVoicemail/src/main/res/xml/pref_myvoicemail_samsung.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,59 +86,49 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="mvm5" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
+        <projects_view />
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyVoicemail.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java">
+      <file leaf-file-name="Copyright.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myVoicemail/Copyright.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2016">
-              <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="6" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="BuildProp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/conf/BuildProp.java">
+        <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/conf/BuildProp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+            <state relative-caret-position="504">
+              <caret line="52" column="35" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#5153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DocumentsContract.java" pinned="false" current-in-tab="false">
+        <entry file="file:///google/sdk/sources/android-27/android/provider/DocumentsContract.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RecordGreetingActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordGreetingActivity.java">
+      <file leaf-file-name="LocalStorageProvider.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aFileChooser/src/main/java/com/ianhanniballake/localstorage/LocalStorageProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1944">
-              <caret line="145" column="22" lean-forward="false" selection-start-line="145" selection-start-column="12" selection-end-line="145" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SettingsActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11304">
-              <caret line="634" column="47" lean-forward="false" selection-start-line="634" selection-start-column="29" selection-end-line="634" selection-end-column="47" />
+            <state relative-caret-position="138">
+              <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,11 +136,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyVoicemailDaemon.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemailDaemon.java">
+      <file leaf-file-name="FileChooserActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aFileChooser/src/main/java/com/ipaulpro/afilechooser/FileChooserActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="91" column="30" lean-forward="false" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
+            <state relative-caret-position="72">
+              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -99,50 +150,13 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>evaluation</find>
-      <find>setTitle</find>
-      <find>mIsPremium</find>
-      <find>EVALUATION</find>
-      <find>setPremium</find>
-      <find>Not adding item</find>
-      <find>mSignatureBase64</find>
-      <find>IabHelper</find>
-      <find>mHelper</find>
-      <find>isRecordPermissionGranted</find>
-      <find>requestRecordPermission</find>
-      <find>AUDIO_ECHO_REQUEST</find>
-      <find>PERMISSION_PHONE_REQUEST</find>
-      <find>REQUEST</find>
-      <find>TextView</find>
-      <find>PERMISSION_AUDIO_REQUEST</find>
-      <find>statusText</find>
-      <find>checkPermissions</find>
-      <find>sendOrderedBroadcast</find>
-      <find>pickupPhone</find>
-      <find>Broad</find>
-      <find>android.permission.CALL_PRIVILEGED</find>
-      <find>CALL_PRIVILEGED</find>
-      <find>exception</find>
-      <find>IaUpgradeHelper</find>
-      <find>AsyncTask</find>
-      <find>RecordAudio</find>
-      <find>recordTask</find>
-      <find>turnOnDaemon</find>
-      <find>Thread</find>
+      <find>VOICEMAIL_HOME_DEFAULT_PATH</find>
+      <find>Root</find>
+      <find>COLUMN_DOCUMENT_ID</find>
     </findStrings>
-    <replaceStrings>
-      <replace>versionCode 7</replace>
-      <replace>implementation</replace>
-      <replace>PERMISSION_AUDIO_REUEST</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/myVoicemail</dir>
-    </dirStrings>
   </component>
-  <component name="GenerateSignedApkSettings">
-    <option name="KEY_STORE_PATH" value="$USER_HOME$/ks/pmiyusov-release-key.keystore" />
-    <option name="KEY_ALIAS" value="mykeyalias" />
-    <option name="REMEMBER_PASSWORDS" value="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -160,14 +174,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="mvm5" />
+              <option name="name" value="mvm" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="mvm5" />
+                <option name="name" value="mvm" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -201,7 +215,7 @@
                 <option name="name" value="reportBuildArtifactsFreeDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'mvm5'." />
+                <option name="description" value="Displays the sub-projects of root project 'mvm'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -629,11 +643,6 @@
                 <option name="name" value="transformResourcesWithMergeJavaResForDebugFlavorDebugUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the ReleasePaid build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="installPaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="splitsDiscoveryTaskReleaseFlavorRelease" />
               </ExternalTaskPojo>
@@ -762,7 +771,7 @@
                 <option name="name" value="extractReleaseFlavorReleaseAnnotations" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'mvm5'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'mvm'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
@@ -771,7 +780,7 @@
                 <option name="name" value="packageReleaseFlavorDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'mvm5'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'mvm'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -976,7 +985,7 @@
                 <option name="name" value="processFreeReleaseUnitTestJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'mvm5'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'mvm'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -985,7 +994,7 @@
                 <option name="name" value="checkReleaseFlavorDebugManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'mvm5' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'mvm' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -1174,7 +1183,7 @@
                 <option name="name" value="compilePaidReleaseAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'mvm5'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'mvm'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -1573,7 +1582,7 @@
                 <option name="name" value="processPaidReleaseJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'mvm5'." />
+                <option name="description" value="Displays the properties of root project 'mvm'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -1761,7 +1770,7 @@
                 <option name="name" value="compileReleaseFlavorReleaseJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'mvm5'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'mvm'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -2358,7 +2367,7 @@
                 <option name="name" value="preFreeReleaseUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'mvm5'." />
+                <option name="description" value="Displays all dependencies declared in root project 'mvm'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -2544,10 +2553,6 @@
                 <option name="description" value="Runs lint on the PaidRelease build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="lintPaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="validateSigningPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -6119,10 +6124,6 @@
             <list>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidReleaseShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="reportBuildArtifactsFreeDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -6133,10 +6134,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="javaPreCompileFreeReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="assemblePaidReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6165,19 +6162,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="writePaidDebugApplicationId" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs the DebugPaid build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="installPaidDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="prePaidDebugUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileDebugFlavorReleaseShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -6187,10 +6171,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="preparePUBLISHED_JAVA_RESFreeDebugForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="splitsDiscoveryTaskPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6231,10 +6211,6 @@
                 <option name="name" value="processFreeReleaseJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformResourcesWithMergeJavaResForPaidDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles all ReleaseFlavor builds." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="assembleReleaseFlavor" />
@@ -6255,10 +6231,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="transformClassesAndResourcesWithProguardForReleaseFlavorRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6288,10 +6260,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="bundlePaidDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileFreeDebugRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -6310,10 +6278,6 @@
                 <option name="description" value="Runs lint on the FreeDebug build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="lintFreeDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformNativeLibsWithStripDebugSymbolForPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Run unit tests for the releaseFlavorDebug build." />
@@ -6355,27 +6319,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidDebugResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="preparePUBLISHED_NATIVE_LIBSPaidDebugForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="prepareLintJar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileReleaseFlavorReleaseShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugAndroidTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6400,16 +6348,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="javaPreCompilePaidDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="checkDebugFlavorDebugManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs and runs the tests for paidDebug on connected devices." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="connectedPaidDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6427,11 +6366,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="javaPreCompileDebugFlavorReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the android (on device) tests for the PaidDebug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="uninstallPaidDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6469,10 +6403,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="preparePUBLISHED_JAVA_RESPaidDebugForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeDebugFlavorReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -6490,14 +6420,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidDebugAndroidTestResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="preparePUBLISHED_JAVA_RESPaidReleaseForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="generateFreeReleaseResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -6506,16 +6428,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="processPaidReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="processReleaseFlavorDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs the ReleasePaid build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="installPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6524,14 +6437,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="splitsDiscoveryTaskReleaseFlavorRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformNativeLibsWithMergeJniLibsForPaidDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformClassesAndResourcesWithProguardForPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6570,10 +6475,6 @@
                 <option name="description" value="Runs all checks." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="check" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="reportBuildArtifactsPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6617,10 +6518,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformNativeLibsWithMergeJniLibsForPaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="validateSigningFreeDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -6634,10 +6531,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="preReleaseFlavorReleaseUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="processPaidDebugResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the dependent components of components in project ':myVoicemail'. [incubating]" />
@@ -6659,15 +6552,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="assemblePaidDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeReleaseFlavorDebugAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformClassesWithDexBuilderForPaidDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6735,19 +6620,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugNdk" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="assembleDebugFlavorReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileReleaseFlavorDebugAndroidTestAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidDebugAndroidTestAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6770,10 +6647,6 @@
                 <option name="description" value="Runs lint on just the fatal issues in the debugFlavorRelease build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="lintVitalDebugFlavorRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidDebugBuildConfig" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the ReleaseDebugFlavor build." />
@@ -6819,14 +6692,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="javaPreCompilePaidDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="preparePUBLISHED_JAVA_RESPaidDebugAndroidTestForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="generateReleaseFlavorDebugBuildConfig" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -6866,27 +6731,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformResourcesWithMergeJavaResForPaidDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="bundleAppClassesFreeRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="bundleAppClassesPaidDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="transformNativeLibsWithStripDebugSymbolForFreeDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="createPaidDebugCompatibleScreenManifests" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="checkPaidReleaseManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6908,14 +6757,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileDebugFlavorDebugSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidReleaseAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugAndroidTestNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -6961,10 +6802,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="assemblePaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="bundleFreeDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -6995,15 +6832,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="bundlePaidReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeFreeDebugShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="preparePUBLISHED_DEXPaidDebugAndroidTestForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7014,21 +6843,12 @@
                 <option name="name" value="compileReleaseFlavorDebugAndroidTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the paidRelease build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="lintVitalPaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeDebugFlavorDebugJniLibFolders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileDebugFlavorDebugUnitTestJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidReleaseAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the insight into a specific dependency in project ':myVoicemail'." />
@@ -7038,10 +6858,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileDebugFlavorReleaseSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="prePaidDebugAndroidTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7063,10 +6879,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileDebugFlavorDebugAndroidTestRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugUnitTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the android (on device) tests for the FreeDebug build." />
@@ -7124,20 +6936,12 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="generateFreeDebugAndroidTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs lint on just the fatal issues in the releaseFlavorRelease build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="lintVitalReleaseFlavorRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugAndroidTestShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7173,14 +6977,6 @@
                 <option name="name" value="installReleaseFlavorDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformClassesWithDexBuilderForPaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Installs and runs instrumentation tests for all flavors on connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="connectedAndroidTest" />
@@ -7190,17 +6986,8 @@
                 <option name="name" value="mergeReleaseFlavorReleaseAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles all Paid builds." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="assemblePaid" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileDebugFlavorDebugJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="checkPaidDebugManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7221,23 +7008,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformResourcesWithMergeJavaResForPaidReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="bundleAppClassesPaidReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileReleaseFlavorDebugAndroidTestShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="bundleReleaseFlavorReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidReleaseSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7249,23 +7024,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="processPaidReleaseManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidReleaseUnitTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="createFreeDebugCompatibleScreenManifests" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="transformDexArchiveWithDexMergerForReleaseFlavorDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="packagePaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7338,10 +7101,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformResourcesWithMergeJavaResForPaidDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="assembleDebugFlavorDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -7350,23 +7109,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidReleaseNdk" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="processPaidDebugAndroidTestJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeFreeDebugAndroidTestAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="bundleAppClassesDebugFlavorDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugAndroidTestRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Installs the android (on device) tests for the DebugFlavorDebug build." />
@@ -7391,10 +7138,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="createPaidReleaseCompatibleScreenManifests" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileReleaseFlavorReleaseRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -7402,17 +7145,9 @@
                 <option name="name" value="javaPreCompileReleaseFlavorDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="processPaidReleaseJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of project ':myVoicemail'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="processPaidDebugUnitTestJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Installs the DebugDebugFlavor build." />
@@ -7426,14 +7161,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="transformResourcesWithMergeJavaResForFreeReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformDexArchiveWithDexMergerForPaidDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformDexArchiveWithDexMergerForPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the DebugReleaseFlavor build." />
@@ -7469,14 +7196,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="processFreeDebugUnitTestJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidReleaseUnitTestJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="prePaidReleaseBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7530,23 +7249,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugAndroidTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="preparePUBLISHED_NATIVE_LIBSPaidDebugAndroidTestForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="preparePUBLISHED_JAVA_RESDebugFlavorDebugAndroidTestForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="bundleAppClassesPaidDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="packagePaidDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7571,15 +7274,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="bundlePaidDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="preparePUBLISHED_NATIVE_LIBSReleaseFlavorDebugAndroidTestForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugUnitTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7603,15 +7298,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForPaidDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileDebugFlavorDebugRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidDebugAndroidTestShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7634,33 +7321,12 @@
                 <option name="name" value="generateDebugFlavorReleaseResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for the paidRelease build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="testPaidReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileReleaseFlavorDebugAndroidTestRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="validateSigningPaidDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeReleaseFlavorDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformClassesWithDexBuilderForPaidDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidDebugAndroidTestAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformNativeLibsWithStripDebugSymbolForPaidDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7701,11 +7367,6 @@
                 <option name="name" value="processFreeReleaseManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for the paidDebug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="testPaidDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="generateReleaseFlavorDebugAndroidTestBuildConfig" />
               </ExternalTaskPojo>
@@ -7723,20 +7384,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="javaPreCompilePaidDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileDebugFlavorDebugAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="writePaidReleaseApplicationId" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs the android (on device) tests for the PaidDebug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="installPaidDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7748,15 +7396,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidReleaseSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeReleaseFlavorDebugJniLibFolders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformNativeLibsWithMergeJniLibsForPaidDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7781,15 +7421,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="processReleaseFlavorReleaseManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the ReleasePaid build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="uninstallPaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidDebugAndroidTestBuildConfig" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7846,10 +7477,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="bundleAppClassesPaidDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="generateDebugFlavorDebugAndroidTestBuildConfig" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -7859,22 +7486,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeDebugFlavorDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="bundleAppClassesPaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="processPaidDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7888,14 +7499,6 @@
                 <option name="description" value="Prints out all the source sets defined in this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="sourceSets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="splitsDiscoveryTaskPaidDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidReleaseResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7916,10 +7519,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidDebugSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeReleaseFlavorDebugAndroidTestJniLibFolders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -7936,15 +7535,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="processPaidReleaseUnitTestJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeFreeDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidDebugJniLibFolders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7956,27 +7547,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mainApkListPersistencePaidDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="javaPreCompileDebugFlavorDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeFreeReleaseShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="preparePUBLISHED_DEXPaidReleaseForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidDebugShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -7999,10 +7574,6 @@
                 <option name="name" value="bundleAppClassesReleaseFlavorDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="assemblePaidDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles all Release builds." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="assembleRelease" />
@@ -8013,19 +7584,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformResourcesWithMergeJavaResForPaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileDebugFlavorReleaseNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="generateFreeDebugBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidDebugAndroidTestJniLibFolders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8038,10 +7601,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="generateDebugFlavorDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="preparePUBLISHED_NATIVE_LIBSPaidReleaseForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8075,10 +7634,6 @@
                 <option name="description" value="Installs the DebugFree build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="installFreeDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformDexArchiveWithDexMergerForPaidDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8176,19 +7731,6 @@
                 <option name="name" value="uninstallFreeRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="validateSigningPaidDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugAndroidTestAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the PaidDebug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="lintPaidDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the ReleaseReleaseFlavor build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="uninstallReleaseFlavorRelease" />
@@ -8196,14 +7738,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="processDebugFlavorReleaseUnitTestJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="prePaidReleaseUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8219,20 +7753,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidReleaseBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeDebugFlavorDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileDebugFlavorDebugAndroidTestAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the DebugPaid build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="uninstallPaidDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8263,14 +7788,6 @@
                 <option name="name" value="preDebugFlavorDebugUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="javaPreCompilePaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForPaidDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="help" />
@@ -8292,17 +7809,8 @@
                 <option name="name" value="packageDebugFlavorRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the PaidRelease build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="lintPaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="processReleaseFlavorReleaseJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="validateSigningPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8319,14 +7827,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="preparePUBLISHED_DEXReleaseFlavorReleaseForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="processPaidDebugManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="reportBuildArtifactsPaidDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8350,10 +7850,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidDebugAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeReleaseFlavorDebugShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -8364,14 +7860,6 @@
                 <option name="description" value="Displays the Android dependencies of the project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="androidDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidReleaseJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="javaPreCompilePaidReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8388,10 +7876,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="javaPreCompileReleaseFlavorReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the android (on device) tests for the DebugFlavorDebug build." />
@@ -8416,10 +7900,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mainApkListPersistencePaidRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="compileDebugFlavorReleaseUnitTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -8428,15 +7908,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidReleaseShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="transformResourcesWithMergeJavaResForReleaseFlavorDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="generatePaidDebugAndroidTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8460,10 +7932,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="prePaidDebugBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="preparePUBLISHED_JAVA_RESReleaseFlavorDebugAndroidTestForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -8476,17 +7944,9 @@
                 <option name="name" value="generateFreeReleaseAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="preparePUBLISHED_DEXPaidDebugForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Run unit tests for the freeRelease build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="testFreeReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8503,10 +7963,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="generateFreeReleaseBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mainApkListPersistencePaidDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8542,10 +7998,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="assemblePaidDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeReleaseFlavorDebugAndroidTestAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -8555,14 +8007,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="bundleAppClassesDebugFlavorDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="packagePaidDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidDebugResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the signing info for each variant." />
@@ -8592,28 +8036,12 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidDebugShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="generateDebugFlavorReleaseSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="processPaidDebugAndroidTestManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidReleaseAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="build" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="compilePaidReleaseRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
@@ -8630,15 +8058,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="processPaidDebugJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
                 <option name="name" value="mergeReleaseFlavorDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/myVoicemail" />
-                <option name="name" value="mergePaidReleaseJniLibFolders" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -9262,7 +8682,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="mvm5" />
+              <option name="name" value="mvm" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/dependency-management" />
@@ -9429,24 +8849,26 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/util/IabHelper.java" />
-        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/Log.java" />
-        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java" />
-        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/conf/BuildProp.java" />
-        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/IaUpgradeHelper.java" />
-        <option value="$PROJECT_DIR$/myVoicemail/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/myVoicemail/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemailDaemon.java" />
+        <option value="$PROJECT_DIR$/aFileChooser/src/main/java/com/ipaulpro/afilechooser/Copyright.txt" />
+        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/conf/BuildProp.java" />
+        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/AddVoicemailHeadlessActivity.java" />
+        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/CallAlertDialog.java" />
         <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java" />
+        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemailDaemon.java" />
+        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordGreetingActivity.java" />
+        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java" />
+        <option value="$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-67" />
-    <option name="y" value="90" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="320" />
+    <option name="y" value="27" />
     <option name="width" value="1280" />
-    <option name="height" value="654" />
+    <option name="height" value="873" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
@@ -9462,36 +8884,55 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
-              <item name="mvm5" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+              <item name="mvm" type="1abcf292:AndroidViewProjectNode" />
+              <item name="aFileChooser" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="mvm" type="1abcf292:AndroidViewProjectNode" />
+              <item name="aFileChooser" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="mvm" type="1abcf292:AndroidViewProjectNode" />
+              <item name="aFileChooser" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvm" type="1abcf292:AndroidViewProjectNode" />
+              <item name="aFileChooser" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="afilechooser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvm" type="1abcf292:AndroidViewProjectNode" />
+              <item name="aFileChooser" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="afilechooser" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="/google/sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SocketSample/SocketClient" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myVoicemail/Copyright.txt" />
     <property name="android.project.structure.last.selected" value="myVoicemail" />
     <property name="android.project.structure.proportion" value="0.15" />
-    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/myVoicemail" />
-    <property name="ExportApk.Flavors" value="debugFlavor&#10;releaseFlavor" />
-    <property name="ExportApk.BuildType" value="debug" />
-    <property name="ExportApk.SignV1" value="true" />
-    <property name="ExportApk.SignV2" value="true" />
-    <property name="ToolWindowDocumentation.ShowToolbar" value="false" />
-    <property name="device.picker.selection" value="0c527150" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -9505,7 +8946,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android App.MyVoicemail">
+  <component name="RunManager" selected="Android App.myVoicemail">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -9528,51 +8969,6 @@
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="MyVoicemail" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="myVoicemail" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="specific_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.pmiyusov.mvm.MyVoicemail" />
     </configuration>
     <configuration name="aFileChooserExample" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="aFileChooserExample" />
@@ -9619,7 +9015,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
     </configuration>
-    <configuration name="myVoicemail" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+    <configuration name="myVoicemail" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="myVoicemail" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -9676,6 +9072,53 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="aFileChooserExample" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="aFileChooserExample" />
+      <envs />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <envs />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -9745,16 +9188,10 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-    <list size="3">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Android App.aFileChooserExample" />
       <item index="1" class="java.lang.String" itemvalue="Android App.myVoicemail" />
-      <item index="2" class="java.lang.String" itemvalue="Android App.MyVoicemail" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Android App.MyVoicemail" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -9764,486 +9201,376 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6ffbe9b-3614-4ecf-b844-996890b2b5e0" name="Default" comment="" />
-      <created>1528109107260</created>
+      <changelist id="9a4537af-537a-41b8-bc30-334d7739fe31" name="Default" comment="" />
+      <created>1548348887426</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1528109107260</updated>
+      <updated>1548348887426</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-67" y="90" width="1280" height="654" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1600" height="873" extended-state="6" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24188311" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22540984" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29445878" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32859176" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294423" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39886847" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.3273196" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="1869" y="346" width="754" height="193" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java</url>
-          <line>128</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2016">
-          <caret line="137" column="39" lean-forward="false" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="61" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/util/IabHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2322">
-          <caret line="162" column="43" lean-forward="false" selection-start-line="162" selection-start-column="43" selection-end-line="162" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/conf/BuildProp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3636">
-          <caret line="202" column="31" lean-forward="false" selection-start-line="202" selection-start-column="21" selection-end-line="202" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12276">
-          <caret line="682" column="73" lean-forward="false" selection-start-line="682" selection-start-column="73" selection-end-line="682" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/IaUpgradeHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/Log.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="e#203#204#0" expanded="false" />
-            <element signature="e#260#261#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2016">
-          <caret line="137" column="39" lean-forward="false" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="70" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/util/IabHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2322">
-          <caret line="162" column="43" lean-forward="false" selection-start-line="162" selection-start-column="43" selection-end-line="162" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/conf/BuildProp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3636">
-          <caret line="202" column="31" lean-forward="false" selection-start-line="202" selection-start-column="21" selection-end-line="202" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12276">
-          <caret line="682" column="73" lean-forward="false" selection-start-line="682" selection-start-column="73" selection-end-line="682" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/IaUpgradeHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/Log.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="e#203#204#0" expanded="false" />
-            <element signature="e#260#261#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2016">
-          <caret line="137" column="39" lean-forward="false" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="70" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/util/IabHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2322">
-          <caret line="162" column="43" lean-forward="false" selection-start-line="162" selection-start-column="43" selection-end-line="162" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/conf/BuildProp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3114">
-          <caret line="202" column="31" lean-forward="false" selection-start-line="202" selection-start-column="21" selection-end-line="202" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11322">
-          <caret line="682" column="73" lean-forward="false" selection-start-line="682" selection-start-column="73" selection-end-line="682" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/IaUpgradeHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/Log.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="e#203#204#0" expanded="false" />
-            <element signature="e#260#261#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2016">
-          <caret line="137" column="39" lean-forward="false" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="70" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/util/IabHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3996">
-          <caret line="257" column="0" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/conf/BuildProp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11646">
-          <caret line="647" column="37" lean-forward="false" selection-start-line="647" selection-start-column="28" selection-end-line="647" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/IaUpgradeHelper.java">
+    <entry file="file://$PROJECT_DIR$/myVoicemail/Copyright.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2016">
-          <caret line="137" column="39" lean-forward="false" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
+          <caret line="6" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/Log.java">
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/conf/BuildProp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="96" lean-forward="false" selection-start-line="18" selection-start-column="96" selection-end-line="18" selection-end-column="96" />
+        <state relative-caret-position="936">
+          <caret line="52" column="35" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="58" />
           <folding>
-            <element signature="e#203#204#0" expanded="false" />
-            <element signature="e#260#261#0" expanded="false" />
+            <element signature="e#0#5153#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aFileChooser/src/main/java/com/ipaulpro/afilechooser/FileChooserActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aFileChooserExample/src/main/java/com/ipaulpro/afilechooserexample/FileChooserExampleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="63" column="38" lean-forward="false" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///google/sdk/sources/android-27/android/content/Intent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14760">
-          <caret line="950" column="25" lean-forward="false" selection-start-line="950" selection-start-column="25" selection-end-line="950" selection-end-column="25" />
+        <state relative-caret-position="756">
+          <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aFileChooser/src/main/java/com/ianhanniballake/localstorage/LocalStorageProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="41" column="34" lean-forward="false" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        <state relative-caret-position="594">
+          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aFileChooser/src/main/java/com/ipaulpro/afilechooser/utils/FileUtils.java">
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/CallAlertDialog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="518" column="25" lean-forward="false" selection-start-line="518" selection-start-column="25" selection-end-line="518" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logcat.txt" />
-    <entry file="file:///google/sdk/sources/android-27/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="116" column="19" lean-forward="false" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/Log.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="18">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#203#204#0" expanded="false" />
-            <element signature="e#260#261#0" expanded="false" />
+            <element signature="e#0#4157#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="72" column="12" lean-forward="false" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="137" column="39" lean-forward="false" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/conf/BuildProp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11304">
-          <caret line="634" column="47" lean-forward="false" selection-start-line="634" selection-start-column="29" selection-end-line="634" selection-end-column="47" />
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#15730#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/IaUpgradeHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/purchaseupgrade/util/IabHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordGreetingActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1944">
-          <caret line="145" column="22" lean-forward="false" selection-start-line="145" selection-start-column="12" selection-end-line="145" selection-end-column="22" />
+        <state relative-caret-position="18">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14254#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15038#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31052#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///google/sdk/sources/android-27/android/provider/DocumentsContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8478">
+          <caret line="471" column="30" lean-forward="false" selection-start-line="471" selection-start-column="30" selection-end-line="471" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/Copyright.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/CallAlertDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#4157#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2016">
-          <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#15730#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemailDaemon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="91" column="30" lean-forward="false" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
+        <state relative-caret-position="13878">
+          <caret line="771" column="6" lean-forward="false" selection-start-line="771" selection-start-column="6" selection-end-line="771" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#40494#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordGreetingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14254#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15038#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31052#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/conf/BuildProp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="35" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#5153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aFileChooser/src/main/java/com/ipaulpro/afilechooser/Copyright.txt" />
+    <entry file="file://$PROJECT_DIR$/aFileChooser/src/main/java/com/ipaulpro/afilechooser/FileListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/Copyright.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/AddVoicemailHeadlessActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#12139#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/CallAlertDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#4157#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15730#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/MyVoicemailDaemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12942">
+          <caret line="771" column="6" lean-forward="false" selection-start-line="771" selection-start-column="6" selection-end-line="771" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#40494#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordGreetingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14254#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/RecordService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15038#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/SettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31052#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myVoicemail/src/main/java/com/pmiyusov/mvm/conf/BuildProp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="52" column="35" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#5153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aFileChooserExample/src/main/java/com/ipaulpro/afilechooserexample/FileChooserExampleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///google/sdk/sources/android-27/android/provider/DocumentsContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aFileChooser/src/main/java/com/ipaulpro/afilechooser/FileChooserActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aFileChooser/src/main/java/com/ianhanniballake/localstorage/LocalStorageProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -10252,7 +9579,7 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>Android API 26 Platform</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
