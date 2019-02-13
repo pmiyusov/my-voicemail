@@ -13,3 +13,7 @@ Further work to be done  on support of current APIs and Qualcomm chipsets.
 
 Development environment : Android studio 3.0+.
 Build: from IDE or from command line by running ./gradlew 
+
+Developer: Paul Miyusov
+Email    : myownvoicemail@gmail.com
+
